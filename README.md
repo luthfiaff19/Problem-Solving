@@ -1,8 +1,10 @@
 # problemsolvechallenge
 # problem-solve
+Game Problem Solve adalah game Penyelesaian atau pemecahan masalah bagian dari proses berpikir. Sering dianggap proses paling kompleks di antara semua fungsi kecerdasan.
 # How To Play
 Go to Release Tab
 Download .rar -> Unzip -> Install APK -> Play
+Tag-Version 1.0
 # Daftar Branch:
 Step1-Problem1 = Problem 1, 
 Step2-Problem2 = Problem 2, 
